@@ -1,0 +1,18 @@
+.erro{
+    width: 100%;
+    height: calc(100vh - 60px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.erro h1{
+    font-size: 100;
+}
+.erro a{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    margin-top: 14px;
+    font-weight: bold;
+}
