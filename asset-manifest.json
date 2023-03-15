@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gikoderick/Giko-Flix/static/css/main.388fdda6.css",
-    "main.js": "/Gikoderick/Giko-Flix/static/js/main.3a5f972f.js",
-    "index.html": "/Gikoderick/Giko-Flix/index.html",
-    "main.388fdda6.css.map": "/Gikoderick/Giko-Flix/static/css/main.388fdda6.css.map",
-    "main.3a5f972f.js.map": "/Gikoderick/Giko-Flix/static/js/main.3a5f972f.js.map"
+    "main.css": "/Giko-Flix/static/css/main.388fdda6.css",
+    "main.js": "/Giko-Flix/static/js/main.3a5f972f.js",
+    "index.html": "/Giko-Flix/index.html",
+    "main.388fdda6.css.map": "/Giko-Flix/static/css/main.388fdda6.css.map",
+    "main.3a5f972f.js.map": "/Giko-Flix/static/js/main.3a5f972f.js.map"
   },
   "entrypoints": [
     "static/css/main.388fdda6.css",
